@@ -26,7 +26,7 @@ setup(
     version = "0.0.1",
     author = "RedHog (Egil Moeller)",
     author_email = "egil@skytruth.org",
-    license = "GPL",
+    license = "BSD",
     url = "http://github.com/redhog/appomatic_migratedata",
     packages = find_packages(),
     package_data = {'': ['*.txt', '*.css', '*.html', '*.js']},
